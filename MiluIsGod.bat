@@ -1,4 +1,4 @@
 @echo off
 :loop
-echo Ã×Â¶ÊÇÉñ
+echo ç±³éœ²æ˜¯ç¥ž
 goto loop
